@@ -1,0 +1,3 @@
+[submodule "lib/picoblaze_asm_encoder"]
+	path = lib/picoblaze_asm_encoder
+	url = git://github.com/pypros/picoblaze_asm_encoder.git
